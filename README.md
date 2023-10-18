@@ -1,2 +1,4 @@
 # FullStack
-In this repository We will perform Curd Opertions.
+In this Reposistory We will perform Curd Opertions.
+<br>
+Authur: Hussnain Fiaz
